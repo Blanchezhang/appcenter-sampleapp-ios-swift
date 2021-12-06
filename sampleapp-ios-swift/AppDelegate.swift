@@ -20,6 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             Crashes.self,
         ])
         
+        //test 提交
         return true
     }
 }
